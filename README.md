@@ -1,4 +1,4 @@
-# Hackerearth BrainWaves 2017-18  competition
+# Machine Learning Challenge
 
 ## Predict Fraudulent Transactions
 https://www.hackerearth.com/challenge/competitive/brainwaves-17-1/
